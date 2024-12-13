@@ -1,0 +1,294 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Personalized Mug",
+      "price": 15.99,
+      "currency": "USD",
+      "image_url": "/images/mug.png",
+      "description": "A customizable mug with your name or a special message.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 2,
+      "title": "Bouquet of Fresh Roses",
+      "price": 29.99,
+      "currency": "USD",
+      "image_url": "/images/rose.png",
+      "description": "A beautiful bouquet of fresh, hand-picked roses, perfect for any occasion.",
+      "review":"/images/review1.png",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Gift Basket",
+      "price": 39.99,
+      "currency": "USD",
+      "image_url": "/images/chocolatebox.png",
+      "description": "An assortment of premium chocolates in a decorative gift basket.",
+      "review":"/images/review1.png",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Kids Doll house",
+      "price": 59.99,
+      "currency": "USD",
+      "image_url": "/images/dollhouse.png",
+      "description": "A fun and safe dollhouse set for kids to explore their creativity.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Branded Perfume",
+      "price": 22.99,
+      "currency": "USD",
+      "image_url": "/images/perfume.png",
+      "description": "A set of luxury scented candles in calming fragrances, perfect for relaxation.",
+      "review":"/images/review1.png",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Customizable T-Shirt",
+      "price": 19.99,
+      "currency": "USD",
+      "image_url": "/images/tshirt.png",
+      "description": "A soft, comfortable t-shirt that you can personalize with a name or message.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Ladies Watch",
+      "price": 49.99,
+      "currency": "USD",
+      "image_url": "/images/ladywatch.png",
+      "description": "A stylish ladies wristwatch to add elegance to any outfit.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Spa Gift Set",
+      "price": 34.99,
+      "currency": "USD",
+      "image_url": "/images/spa.png",
+      "description": "A relaxing spa gift set with bath salts, lotions, and candles for a pampering experience.",
+      "review":"/images/review1.png",
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Leather Wallet",
+      "price": 45.99,
+      "currency": "USD",
+      "image_url": "/images/wallet.png",
+      "description": "A sleek, durable leather wallet for both style and functionality.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Jewelry Box",
+      "price": 27.99,
+      "currency": "USD",
+      "image_url": "/images/jwellerybox.png",
+      "description": "A beautifully crafted jewelry box to store your precious items.",
+      "review":"/images/review1.png",
+      "isFeatured": true
+    },
+    {
+      "id": 11,
+      "title": "Cute Teddy Bear",
+      "price": 19.99,
+      "currency": "USD",
+      "image_url": "/images/teddy.png",
+      "description": "A soft, cuddly teddy bear that makes a perfect gift for someone special.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 12,
+      "title": "Giant Teddy Bear",
+      "price": 99.99,
+      "currency": "USD",
+      "image_url": "/images/p5.png",
+      "description": "A giant, plush teddy bear that makes a statement gift and a perfect cuddle buddy.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 13,
+      "title": "Flower Vase",
+      "price": 39.99,
+      "currency": "USD",
+      "image_url": "/images/vase.png",
+      "description": "A beautiful flower vase of mixed flowers, perfect for any occasion.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 14,
+      "title": "Stylish Bag",
+      "price": 49.99,
+      "currency": "USD",
+      "image_url": "/images/Bag.png",
+      "description": "A trendy and functional bag, perfect for everyday use.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 15,
+      "title": "Perfume Set",
+      "price": 59.99,
+      "currency": "USD",
+      "image_url": "/images/perfumeset.png",
+      "description": "A luxury set of perfumes with a variety of scents to suit every mood.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 16,
+      "title": "Wallet for Him",
+      "price": 39.99,
+      "currency": "USD",
+      "image_url": "/images/wallet.png",
+      "description": "A classic, high-quality wallet for the modern man.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 17,
+      "title": "Man's Watch",
+      "price": 89.99,
+      "currency": "USD",
+      "image_url": "/images/p7.png",
+      "description": "A stylish man's wristwatch to add elegance to any outfit.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 18,
+      "title": "Phone Case",
+      "price": 19.99,
+      "currency": "USD",
+      "image_url": "/images/iphonecase.png",
+      "description": "A sleek and protective phone case with a stylish design.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 19,
+      "title": "Bracelet for Best Friend",
+      "price": 14.99,
+      "currency": "USD",
+      "image_url": "/images/bracelet.png",
+      "description": "A beautiful bracelet designed to symbolize friendship.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 20,
+      "title": "Locket Set",
+      "price": 34.99,
+      "currency": "USD",
+      "image_url": "/images/locket.png",
+      "description": "A matching locket set for friends or loved ones, perfect for keeping memories close.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 21,
+      "title": "Crystal Ball",
+      "price": 29.99,
+      "currency": "USD",
+      "image_url": "/images/crystalball.png",
+      "description": "A mystical crystal ball for those interested in fortune-telling or decoration.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 22,
+      "title": "Kids Makeup Set",
+      "price": 24.99,
+      "currency": "USD",
+      "image_url": "/images/makeup.png",
+      "description": "A fun and safe makeup set for kids to explore their creativity.",
+      "review":"/images/review1.png",
+      "isFeatured": true
+    },
+    {
+      "id": 23,
+      "title": "Women's Dress",
+      "price": 49.99,
+      "currency": "USD",
+      "image_url": "/images/womencloth.png",
+      "description": "A stylish and elegant dress perfect for any occasion.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 24,
+      "title": "Men's Suit Set",
+      "price": 129.99,
+      "currency": "USD",
+      "image_url": "/images/mansuitset.png",
+      "description": "A classic men's suit set that exudes sophistication and style.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 25,
+      "title": "Kids Bicycle",
+      "price": 89.99,
+      "currency": "USD",
+      "image_url": "/images/cycle.png",
+      "description": "A durable and fun bicycle designed for kids to ride in style.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 26,
+      "title": "Tea Set",
+      "price": 39.99,
+      "currency": "USD",
+      "image_url": "/images/teaset.png",
+      "description": "A charming tea set perfect for afternoon tea with friends and family.",
+      "review":"/images/review1.png",
+      "isFeatured": false
+    },
+    {
+      "id": 27,
+      "title": "Beautiful Ring",
+      "price": 79.99,
+      "currency": "USD",
+      "image_url": "/images/ring.png",
+      "description": "An elegant and eye-catching ring, perfect for any special occasion.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 28,
+      "title": "Water Bottle",
+      "price": 19.99,
+      "currency": "USD",
+      "image_url": "/images/bottles.png",
+      "description": "A sleek, durable water bottle to keep you hydrated throughout the day.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    },
+    {
+      "id": 29,
+      "title": "Air Pods",
+      "price": 159.99,
+      "currency": "USD",
+      "image_url": "/images/airpods.png",
+      "description": "Wireless earbuds with high-quality sound and a sleek design.",
+      "review":"/images/review2.png",
+      "isFeatured": false
+    }
+  ]
+}
