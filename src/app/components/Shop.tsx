@@ -21,10 +21,11 @@ function Shop() {
   const shop = itemData.items.filter((item: Item) => item.isFeatured);
   const router = useRouter();
 
-  const addToCart = (item: Item) => {
+  const addToCart = (item:object) => {
+    const itemWithQuantity = { ...item, quantity: 1 }; // Add the quantity property
     const savedCart = localStorage.getItem("cart");
     const cart = savedCart ? JSON.parse(savedCart) : [];
-    cart.push(item);
+    cart.push(itemWithQuantity);
     localStorage.setItem("cart", JSON.stringify(cart));
     router.push("/cart");
   };
