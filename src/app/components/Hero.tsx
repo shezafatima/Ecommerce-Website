@@ -10,7 +10,7 @@ export default function Hero () {
   ];
   return (
     <section
-      className="hero-section h-screen rounded-br-xl rounded-bl-xl  flex items-center  lg:mx-[53.5px] mx-[28px] -mt-4 justify-center transition-all duration-300 bg-[#f89cab] "
+      className="hero-section h-full rounded-br-xl rounded-bl-xl  flex items-center  lg:mx-[53.5px] mx-[28px] -mt-4 justify-center transition-all duration-300 bg-[#f89cab] "
     >
  
       <div className="w-full  max-w-7xl px-4 md:px-12 py-16 ">

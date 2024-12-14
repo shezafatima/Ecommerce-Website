@@ -62,7 +62,7 @@ const TestimonialCarousel: React.FC = () => {
 
   return (
     <div id="testimonial">
-      <h2 className="text-black text-4xl flex justify-center font-bold">
+      <h2 className="text-black  text-2xl md:text-4xl flex justify-center font-bold">
         Testimonial
       </h2>
 

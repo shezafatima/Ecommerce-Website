@@ -5,7 +5,7 @@ export default function Whyus(){
     return(
         <div id="whyus">
          <div className="bg-[#6929a5] rounded-lg my-[4rem] lg:mx-[53.5px] mx-[24px] ">
-        <div className="flex md:justify-evenly md:flex-row flex-col mt-6 lg:p-2 lg:px-6 lg:pb-4 md:p-4 ">
+        <div className="flex  md:justify-evenly md:flex-row flex-col mt-6 lg:p-2 lg:px-6 lg:pb-4 md:p-4 ">
           <div>
             <Image
               src={"/images/gifts.png"}
