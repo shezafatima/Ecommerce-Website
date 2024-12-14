@@ -51,7 +51,7 @@ const Slideshow: React.FC<HeroSlideshowProps> = ({ images }) => {
   height={1000}
     src={image.src}
     alt={`Slideshow image ${index}`}
-    className="object-cover rounded-lg sm:mt-0 mt-4 w-full  md:w-[250px] md:h-[505px] h-[20rem]"
+    className="object-cover rounded-lg sm:mt-0 mt-4 w-full  md:w-[250px] md:h-[505px]"
   
   />
 </div>

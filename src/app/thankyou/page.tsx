@@ -1,4 +1,4 @@
-
+import Link from "next/link";
 import { FcShipped } from "react-icons/fc";
 const ThankYou = () => {
     return (
@@ -12,7 +12,11 @@ const ThankYou = () => {
 
         <FcShipped />
         </div>
-
+        <Link href="/">
+              <button className="mt-4 bg-[#db4566] hover:bg-white border hover:border-[#db4566] hover:text-[#db4566] text-white px-6 py-2 rounded-lg uppercase">
+                Continue shopping &#x2192;
+              </button>
+            </Link>
       </div>
       </div>
     );

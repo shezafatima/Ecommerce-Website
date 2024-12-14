@@ -4,14 +4,14 @@
 import Image from "next/image";
 import itemData from "../data/item.json";
 import { useRouter } from "next/navigation";
-import Footer from "../components/Footer";
+
 
 export default function Product() {
   const router = useRouter();
 
   // Add quantity here
   const addToCart = (item:object) => {
-    const itemWithQuantity = { ...item, quantity: 1 }; // Add the quantity property
+    const itemWithQuantity = { ...item, quantity: 1 }; 
     const savedCart = localStorage.getItem("cart");
     const cart = savedCart ? JSON.parse(savedCart) : [];
     cart.push(itemWithQuantity);
@@ -21,7 +21,7 @@ export default function Product() {
 
   return (
     <div>
-      <div className="min-h-screen bg-[#ffc5d1] lg:mx-[53.5px] mx-[27px] -mt-4 rounded-b-xl lg:pb-8 ">
+      <div className="min-h-screen bg-[#ffc5d1] lg:mx-[53.5px] mx-[27px] -mt-4 rounded-b-xl lg:pb-8 pb-6 ">
         <h2 className="flex justify-center text-black lg:text-6xl font-bold pt-6 sm:text-4xl text-2xl">Our Products</h2>
         <div className="mt-10 mx-8">
           <div className="grid  sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-center">
@@ -73,7 +73,7 @@ export default function Product() {
           </div>
         </div>
       </div>
-      <Footer />
+      
     </div>
   );
 }
